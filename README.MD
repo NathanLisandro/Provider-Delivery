@@ -41,7 +41,9 @@ Este é um aplicativo desenvolvido como atividade final da disciplina **ESOFT 6*
 ### 1. Clone o repositório
 
 git clone https://github.com/seu_usuario/app-prestadores-servico.git
+
 cd app-prestadores-servico
+
 flutter run
 
 cd ..
