@@ -45,6 +45,7 @@ cd app-prestadores-servico
 flutter run
 
 cd ..
+
 cd ./backend
 
 json-server --watch db.json
