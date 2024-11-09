@@ -1,0 +1,130 @@
+{
+  "prestadores": [
+    {
+      "id": "1",
+      "nome": "João Silva",
+      "telefone": "123456789",
+      "avaliacaoMedia": 4.5,
+      "quantidadeAvaliacoes": 2,
+      "precoPorHora": 50,
+      "servicos": [
+        "Eletricista",
+        "Encanador"
+      ],
+      "descricao": "Especialista em instalações elétricas e hidráulicas.",
+      "complexidadeServico": "Alta"
+    },
+    {
+      "id": "2",
+      "nome": "Maria Souza t",
+      "telefone": "987654321",
+      "avaliacaoMedia": 4.6,
+      "quantidadeAvaliacoes": 5,
+      "precoPorHora": 40,
+      "servicos": [
+        "Faxineira"
+      ],
+      "descricao": "ServiÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ§os de limpeza residencial e comercial.",
+      "complexidadeServico": "Baixa"
+    },
+    {
+      "id": "1731170588321",
+      "nome": "Valdemiro",
+      "telefone": "44991662545",
+      "avaliacaoMedia": 2.8,
+      "quantidadeAvaliacoes": 5,
+      "precoPorHora": 45,
+      "servicos": [
+        "Limpeza"
+      ],
+      "descricao": "teste",
+      "complexidadeServico": "Média"
+    }
+  ],
+  "avaliacoes": [
+    {
+      "id": "1",
+      "prestadorId": 1,
+      "nota": 5,
+      "comentario": "Excelente profissional!",
+      "data": "2023-10-12T10:00:00Z"
+    },
+    {
+      "id": "2",
+      "prestadorId": 1,
+      "nota": 4,
+      "comentario": "Trabalho bem feito, mas chegou atrasado.",
+      "data": "2023-10-13T15:30:00Z"
+    },
+    {
+      "id": "3",
+      "prestadorId": 2,
+      "nota": 5,
+      "comentario": "Muito caprichosa e pontual.",
+      "data": "2023-10-14T09:45:00Z"
+    },
+    {
+      "id": "1731169960015",
+      "prestadorId": 2,
+      "nota": 5,
+      "comentario": "ex",
+      "data": "2024-11-09T13:32:40.015"
+    },
+    {
+      "id": "1731169965015",
+      "prestadorId": 2,
+      "nota": 3,
+      "comentario": "teste",
+      "data": "2024-11-09T13:32:45.015"
+    },
+    {
+      "id": "1731170565549",
+      "prestadorId": 2,
+      "nota": 5,
+      "comentario": "ts",
+      "data": "2024-11-09T13:42:45.549"
+    },
+    {
+      "id": "1731170569754",
+      "prestadorId": 2,
+      "nota": 5,
+      "comentario": "teste",
+      "data": "2024-11-09T13:42:49.754"
+    },
+    {
+      "id": "1731170910887",
+      "prestadorId": 1731170588321,
+      "nota": 2,
+      "comentario": "teste",
+      "data": "2024-11-09T13:48:30.887"
+    },
+    {
+      "id": "1731172051231",
+      "prestadorId": 1731170588321,
+      "nota": 5,
+      "comentario": "vasc",
+      "data": "2024-11-09T14:07:31.231"
+    },
+    {
+      "id": "1731172064757",
+      "prestadorId": 1731170588321,
+      "nota": 5,
+      "comentario": "teste",
+      "data": "2024-11-09T14:07:44.757"
+    },
+    {
+      "id": "1731172553138",
+      "prestadorId": 1731170588321,
+      "nota": 1,
+      "comentario": "teste",
+      "data": "2024-11-09T14:15:53.138"
+    },
+    {
+      "id": 1731173450865,
+      "prestadorId": 1731170588321,
+      "nota": 1,
+      "comentario": "a",
+      "data": "2024-11-09T14:30:50.865"
+    }
+  ]
+}
